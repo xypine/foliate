@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: com.github.johnfactotum.Foliate\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-13 00:21+0200\n"
-"PO-Revision-Date: 2022-02-27 15:34+0200\n"
+"PO-Revision-Date: 2022-03-21 23:53+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -366,7 +366,7 @@ msgstr "OPDS-Luettelon URL:"
 #. they will be shown in the "About" dialog
 #: src/main.js:208
 msgid "translator-credits"
-msgstr "Elias Arno Eskelinen <contributor@eliaseskelinen.fi>"
+msgstr "Elias Arno Eskelinen <contributions@eliaseskelinen.fi>"
 
 #: src/main.js:210 data/com.github.johnfactotum.Foliate.metainfo.xml.in:7
 msgid "A simple and modern eBook viewer"
@@ -1184,7 +1184,7 @@ msgstr "Käytä kustantajan kirjaisinta"
 
 #: src/ui/mainMenu.ui:511 src/ui/menuBar.ui:144
 msgid "Full Justification"
-msgstr ""
+msgstr "Täysi tasaus"
 
 #: src/ui/mainMenu.ui:518 src/ui/menuBar.ui:148
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:373
@@ -1202,47 +1202,47 @@ msgstr "Piilota kursori automaattisesti"
 
 #: src/ui/mainMenu.ui:566 src/ui/menuBar.ui:162
 msgid "Realistic Shadows"
-msgstr ""
+msgstr "Realistiset varjot"
 
 #: src/ui/mainMenu.ui:578
 msgid "Allow JavaScript"
-msgstr ""
+msgstr "Salli javascript"
 
 #: src/ui/mainMenu.ui:579 src/ui/menuBar.ui:168
 msgid "Allow Unsafe Content"
-msgstr ""
+msgstr "Salli mahdollisesti vaarallinen sisältö"
 
 #: src/ui/mainMenu.ui:586 src/ui/menuBar.ui:172
 msgid "Enable Developer Tools"
-msgstr ""
+msgstr "Ota kehittäjätyökalut käyttöön"
 
 #: src/ui/mainMenu.ui:624 src/ui/menuBar.ui:14
 msgid "Open a Copy"
-msgstr ""
+msgstr "Avaa kopio"
 
 #: src/ui/mainMenu.ui:638 src/ui/menuBar.ui:22
 msgid "Clear Cache"
-msgstr ""
+msgstr "Tyhjennä välimuisti"
 
 #: src/ui/mainMenu.ui:657 src/ui/menuBar.ui:40
 msgid "Import Annotations…"
-msgstr ""
+msgstr "Tuo Merkinnät…"
 
 #: src/ui/mainOverlay.ui:48
 msgid "No books open"
-msgstr ""
+msgstr "Ei avoimia kirjoja"
 
 #: src/ui/mainOverlay.ui:88
 msgid "Recent Files"
-msgstr ""
+msgstr "Viimeaikaiset tiedostot"
 
 #: src/ui/mainOverlay.ui:129
 msgid "Could not open file"
-msgstr ""
+msgstr "Tiedostoa ei kyetty avaamaan"
 
 #: src/ui/mainOverlay.ui:150
 msgid "Open Another File…"
-msgstr ""
+msgstr "Avaa toinen tiedosto…"
 
 #: src/ui/mainOverlay.ui:183
 msgid "Downloading…"
@@ -1254,11 +1254,11 @@ msgstr ""
 
 #: src/ui/menuBar.ui:28
 msgid "Properties"
-msgstr ""
+msgstr "Ominaisuudet"
 
 #: src/ui/menuBar.ui:46
 msgid "Close Window"
-msgstr ""
+msgstr "Sulje ikkuna"
 
 #: src/ui/menuBar.ui:50 src/ui/shortcutsWindow.ui:31
 #: src/ui/shortcutsWindow.ui:141 src/ui/shortcutsWindow.ui:361
@@ -1271,11 +1271,11 @@ msgstr ""
 
 #: src/ui/menuBar.ui:66
 msgid "Bookmark Current Location"
-msgstr ""
+msgstr "Luo kirjanmerkki nykyiseen sijaintiin"
 
 #: src/ui/menuBar.ui:72 src/ui/ttsDialog.ui:6
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Teksti puheeksi"
 
 #: src/ui/menuBar.ui:85
 msgid "_View"
@@ -1283,23 +1283,23 @@ msgstr ""
 
 #: src/ui/menuBar.ui:88
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "Kokonäytön tila päälle / pois"
 
 #: src/ui/menuBar.ui:94
 msgid "Zoom In"
-msgstr ""
+msgstr "Suurenna"
 
 #: src/ui/menuBar.ui:98
 msgid "Restore Zoom"
-msgstr ""
+msgstr "Palauta zoomaus"
 
 #: src/ui/menuBar.ui:102
 msgid "Zoom Out"
-msgstr ""
+msgstr "Pienennä"
 
 #: src/ui/menuBar.ui:116
 msgid "Up to Two Columns"
-msgstr ""
+msgstr "Ylös kaksi saraketta"
 
 #: src/ui/menuBar.ui:179
 msgid "_Go"
@@ -1307,36 +1307,36 @@ msgstr ""
 
 #: src/ui/menuBar.ui:182
 msgid "Go Back"
-msgstr ""
+msgstr "Palaa takaisin"
 
 #: src/ui/menuBar.ui:188
 msgid "Next Page"
-msgstr ""
+msgstr "Seuraava sivu"
 
 #: src/ui/menuBar.ui:192
 msgid "Previous Page"
-msgstr ""
+msgstr "Edellinen sivu"
 
 #: src/ui/menuBar.ui:198
 msgid "Next Chapter"
-msgstr ""
+msgstr "Seuraava luku"
 
 #: src/ui/menuBar.ui:202
 msgid "Previous Chapter"
-msgstr ""
+msgstr "Edellinen luku"
 
 #: src/ui/menuBar.ui:208
 msgid "Beginning"
-msgstr ""
+msgstr "Alku"
 
 #: src/ui/menuBar.ui:212
 msgid "End"
-msgstr ""
+msgstr "Loppu"
 
 #: src/ui/menuBar.ui:218 src/ui/navBar.ui:134 src/ui/navBar.ui:313
 #: src/ui/preferenceWindow.ui:19
 msgid "Location"
-msgstr ""
+msgstr "Sijainti"
 
 #: src/ui/menuBar.ui:225
 msgid "_Help"
@@ -1344,15 +1344,15 @@ msgstr ""
 
 #: src/ui/navBar.ui:27 src/ui/preferenceWindow.ui:35
 msgid "Time left in book"
-msgstr ""
+msgstr "Aikaa jäljellä kirjassa"
 
 #: src/ui/navBar.ui:41 src/ui/preferenceWindow.ui:31
 msgid "Time left in chapter"
-msgstr ""
+msgstr "Aikaa jäljellä luvussa"
 
 #: src/ui/navBar.ui:95 src/ui/preferenceWindow.ui:23
 msgid "Chapter"
-msgstr ""
+msgstr "Luku"
 
 #: src/ui/navBar.ui:173
 msgid "CFI"
@@ -1364,160 +1364,161 @@ msgstr ""
 
 #: src/ui/navBar.ui:213
 msgid "Go to beginning of book"
-msgstr ""
+msgstr "Siirry kirjan alkuun"
 
 #: src/ui/navBar.ui:227
 msgid "Go to previous chapter"
-msgstr ""
+msgstr "Siirry edelliseen lukuun"
 
 #: src/ui/navBar.ui:241
 msgid "Go to next chapter"
-msgstr ""
+msgstr "Siirry seuraavaan lukuun"
 
 #: src/ui/navBar.ui:255
 msgid "Go to end of book"
-msgstr ""
+msgstr "Siirry kirjan loppuun"
 
 #: src/ui/navBar.ui:284 src/ui/shortcutsWindow.ui:270
 #: src/ui/shortcutsWindow.ui:306
 msgid "Go to previous page"
-msgstr ""
+msgstr "Siirry edelliselle sivulle"
 
 #: src/ui/navBar.ui:298 src/ui/shortcutsWindow.ui:277
 msgid "Go back to previous location"
-msgstr ""
+msgstr "Siirry takaisin aikaisempaan sijaintiin"
 
 #: src/ui/navBar.ui:387 src/ui/shortcutsWindow.ui:263
 #: src/ui/shortcutsWindow.ui:299
 msgid "Go to next page"
-msgstr ""
+msgstr "Siirry seuraavalle sivulle"
 
 #: src/ui/navBar.ui:402
 msgid "Text-to-speech"
-msgstr ""
+msgstr "Teksti puheeksi"
 
 #: src/ui/preferenceWindow.ui:11
+#, fuzzy
 msgid "Nothing"
-msgstr ""
+msgstr "Ei mitään"
 
 #: src/ui/preferenceWindow.ui:15
 msgid "Percentage"
-msgstr ""
+msgstr "Prosentti"
 
 #: src/ui/preferenceWindow.ui:27
 msgid "Chapter name"
-msgstr ""
+msgstr "Luvun nimi"
 
 #: src/ui/preferenceWindow.ui:39
 msgid "Clock"
-msgstr ""
+msgstr "Kello"
 
 #: src/ui/preferenceWindow.ui:51
 msgid "Do nothing"
-msgstr ""
+msgstr "Älä tee mitään"
 
 #: src/ui/preferenceWindow.ui:55
 msgid "Show menu"
-msgstr ""
+msgstr "Näytä valikko"
 
 #: src/ui/preferenceWindow.ui:63 src/ui/selectionPopover.ui:33
 msgid "Highlight"
-msgstr ""
+msgstr "Korostus"
 
 #: src/ui/preferenceWindow.ui:67
 msgid "Look up in dictionary"
-msgstr ""
+msgstr "Etsi sanakirjasta"
 
 #: src/ui/preferenceWindow.ui:71
 msgid "Look up in Wikipedia"
-msgstr ""
+msgstr "Etsi Wikipediasta"
 
 #: src/ui/preferenceWindow.ui:75 src/ui/selectionPopover.ui:93
 msgid "Translate"
-msgstr ""
+msgstr "Käännä"
 
 #: src/ui/preferenceWindow.ui:79 src/ui/shortcutsWindow.ui:162
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:18
 msgid "Find in book"
-msgstr ""
+msgstr "Etsi kirjasta"
 
 #: src/ui/preferenceWindow.ui:83 src/ui/selectionPopover.ui:59
 #: src/ui/ttsDialog.ui:165
 msgid "Speak"
-msgstr ""
+msgstr "Puhu"
 
 #: src/ui/preferenceWindow.ui:95
 msgid "Disabled"
-msgstr ""
+msgstr "Pois käytöstä"
 
 #: src/ui/preferenceWindow.ui:99
 msgid "Single click"
-msgstr ""
+msgstr "Yksöisnapsautus"
 
 #: src/ui/preferenceWindow.ui:103
 msgid "Double click"
-msgstr ""
+msgstr "Kaksoisnapsautus"
 
 #: src/ui/preferenceWindow.ui:107
 msgid "Middle click"
-msgstr ""
+msgstr "Keskinapsautus"
 
 #: src/ui/preferenceWindow.ui:111
 msgid "Right click"
-msgstr ""
+msgstr "Oikeanpuolinen napsautus"
 
 #: src/ui/preferenceWindow.ui:142 src/ui/shortcutsWindow.ui:13
 #: src/ui/shortcutsWindow.ui:336
 msgid "General"
-msgstr ""
+msgstr "Yleiset"
 
 #: src/ui/preferenceWindow.ui:157
 msgid "Open last opened file on startup"
-msgstr ""
+msgstr "Avaa viimeisin tiedosto käynnistyksen yhteydessä"
 
 #: src/ui/preferenceWindow.ui:182
 msgid "Reading"
-msgstr ""
+msgstr "Lukeminen"
 
 #: src/ui/preferenceWindow.ui:197
 #: data/com.github.johnfactotum.Foliate.gschema.xml:108
 msgid "Turn page on tap"
-msgstr ""
+msgstr "Käännä sivua napsautuksella"
 
 #: src/ui/preferenceWindow.ui:220
 #: data/com.github.johnfactotum.Foliate.gschema.xml:98
 msgid "Left footer"
-msgstr ""
+msgstr "Vasen alatunniste"
 
 #: src/ui/preferenceWindow.ui:254
 #: data/com.github.johnfactotum.Foliate.gschema.xml:103
 msgid "Right footer"
-msgstr ""
+msgstr "Oikea alatunniste"
 
 #: src/ui/preferenceWindow.ui:288
 msgid "When a word is selected"
-msgstr ""
+msgstr "Kun valitaan sana"
 
 #: src/ui/preferenceWindow.ui:322
 msgid "When multiple words are selected"
-msgstr ""
+msgstr "Kun valitaan useampi sana"
 
 #: src/ui/preferenceWindow.ui:356
 msgid "Open images on"
-msgstr ""
+msgstr "Avaa kuvat kohteessa"
 
 #: src/ui/preferenceWindow.ui:391
 #: data/com.github.johnfactotum.Foliate.gschema.xml:78
 msgid "Text-to-speech command"
-msgstr ""
+msgstr "Teksti puheeksi -komento"
 
 #: src/ui/preferenceWindow.ui:407
 msgid "Configure…"
-msgstr ""
+msgstr "Määritä…"
 
 #: src/ui/preferenceWindow.ui:425
 msgid "Interface"
-msgstr ""
+msgstr "Käyttöliittymä"
 
 #: src/ui/preferenceWindow.ui:440
 msgid "Auto-hide header bar"
@@ -1535,7 +1536,7 @@ msgstr ""
 #: src/ui/preferenceWindow.ui:510 src/ui/preferenceWindow.ui:628
 #: src/ui/preferenceWindow.ui:670
 msgid "Requires restart"
-msgstr ""
+msgstr "Vaatii uudelleenkäynnistyksen"
 
 #: src/ui/preferenceWindow.ui:542
 msgid "OPDS"
@@ -1543,15 +1544,15 @@ msgstr ""
 
 #: src/ui/preferenceWindow.ui:552
 msgid "When downloading books"
-msgstr ""
+msgstr "Kirjoja ladattaessa"
 
 #: src/ui/preferenceWindow.ui:563
 msgid "Save to default directory"
-msgstr ""
+msgstr "Tallenna oletussijaintiin"
 
 #: src/ui/preferenceWindow.ui:583
 msgid "Ask what to do"
-msgstr ""
+msgstr "Kysy mitä tehdä"
 
 #: src/ui/preferenceWindow.ui:620
 msgid "Use Tracker to track file locations"
@@ -1559,16 +1560,16 @@ msgstr ""
 
 #: src/ui/preferenceWindow.ui:662
 msgid "Save file locations"
-msgstr ""
+msgstr "Tallenna tiedostosijainnit"
 
 #: src/ui/preferenceWindow.ui:700
 #: data/com.github.johnfactotum.Foliate.gschema.xml:28
 msgid "Cache locations"
-msgstr ""
+msgstr "Tallenna sijainnit välimuistiin"
 
 #: src/ui/preferenceWindow.ui:724
 msgid "Cache book covers"
-msgstr ""
+msgstr "Tallenna kirjojen kansikuvat välimuistiin"
 
 #: src/ui/propertiesBox.ui:93
 msgid "Details"
@@ -1576,156 +1577,157 @@ msgstr ""
 
 #: src/ui/selectionPopover.ui:79
 msgid "Look Up in Dictionary"
-msgstr ""
+msgstr "Etsi sanakirjasta"
 
 #: src/ui/selectionPopover.ui:86
 msgid "Look Up in Wikipedia"
-msgstr ""
+msgstr "Etsi Wikipediasta"
 
 #: src/ui/selectionPopover.ui:105
 msgid "Speak from Here"
-msgstr ""
+msgstr "Puhu tästä lähtien"
 
 #: src/ui/shortcutsWindow.ui:9
 msgid "Library Shortcuts"
-msgstr ""
+msgstr "Kirjastopikanäppäimet"
 
 #: src/ui/shortcutsWindow.ui:17 src/ui/shortcutsWindow.ui:106
 msgid "Open file"
-msgstr ""
+msgstr "Avaa tiedosto"
 
 #: src/ui/shortcutsWindow.ui:24 src/ui/shortcutsWindow.ui:134
 #: src/ui/shortcutsWindow.ui:354
 msgid "Close current window"
-msgstr ""
+msgstr "Sulje nykyinen ikkuna"
 
 #: src/ui/shortcutsWindow.ui:51
 msgid "List view"
-msgstr ""
+msgstr "Listanäkymä"
 
 #: src/ui/shortcutsWindow.ui:58
 msgid "Grid view"
-msgstr ""
+msgstr "Ruudukkonäkymä"
 
 #: src/ui/shortcutsWindow.ui:85 src/ui/shortcutsWindow.ui:285
 msgid "Go to location"
-msgstr ""
+msgstr "Siirry kohtaan"
 
 #: src/ui/shortcutsWindow.ui:98
 msgid "E-book Viewer Shortcuts"
-msgstr ""
+msgstr "E-kirja-pikanäppäimet"
 
 #: src/ui/shortcutsWindow.ui:102
 msgid "File"
-msgstr ""
+msgstr "Tiedosto"
 
 #: src/ui/shortcutsWindow.ui:113
 msgid "Open a copy"
-msgstr ""
+msgstr "Avaa kopio"
 
 #: src/ui/shortcutsWindow.ui:127
 msgid "Clear cache"
-msgstr ""
+msgstr "Tyhjennä välimuisti"
 
 #: src/ui/shortcutsWindow.ui:169
 msgid "View book info"
-msgstr ""
+msgstr "Näytä kirjan tiedot"
 
 #: src/ui/shortcutsWindow.ui:176
 msgid "Start/stop text-to-speech"
-msgstr ""
+msgstr "Käynnistä/pysäytä tekstistä puheeksi -toiminto"
 
 #: src/ui/shortcutsWindow.ui:206 src/ui/shortcutsWindow.ui:391
 msgid "Restore zoom level"
-msgstr ""
+msgstr "Palauta zoomaus"
 
 #: src/ui/shortcutsWindow.ui:214
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "Kokonäytön tila päälle / pois"
 
 #: src/ui/shortcutsWindow.ui:221
 msgid "Show contents"
-msgstr ""
+msgstr "Näytä sisältö"
 
 #: src/ui/shortcutsWindow.ui:228
 msgid "Show table of contents"
-msgstr ""
+msgstr "Näytä sisällysluettelo"
 
 #: src/ui/shortcutsWindow.ui:235
 msgid "Show annotations"
-msgstr ""
+msgstr "Näytä merkinnät"
 
 #: src/ui/shortcutsWindow.ui:242
 msgid "Show bookmarks"
-msgstr ""
+msgstr "Näytä kirjanmerkit"
 
 #: src/ui/shortcutsWindow.ui:249
 msgid "Show primary menu"
-msgstr ""
+msgstr "Näytä päävalikko"
 
 #: src/ui/shortcutsWindow.ui:259
 msgid "Navigation"
-msgstr ""
+msgstr "Navigointi"
 
 #: src/ui/shortcutsWindow.ui:295
 msgid "Touchpad Gestures"
-msgstr ""
+msgstr "Kosketuslevyn eleet"
 
 #: src/ui/shortcutsWindow.ui:332
 msgid "Image Viewer Shortcuts"
-msgstr ""
+msgstr "Kuvankatseluohjelman pikanäppäimet"
 
 #: src/ui/themeWindow.ui:6
 msgid "Custom Theme"
-msgstr ""
+msgstr "Mukautettu teema"
 
 #: src/ui/themeWindow.ui:39
 msgid "Theme Name"
-msgstr ""
+msgstr "Teeman nimi"
 
 #: src/ui/themeWindow.ui:64
 msgid "Background"
-msgstr ""
+msgstr "Tausta"
 
 #: src/ui/themeWindow.ui:78
 msgid "Text Color"
-msgstr ""
+msgstr "Tekstin väri"
 
 #: src/ui/themeWindow.ui:92
 msgid "Link Color"
-msgstr ""
+msgstr "Linkkejen väri"
 
 #: src/ui/themeWindow.ui:159
 msgid "Dark Mode"
-msgstr ""
+msgstr "Tumma teema"
 
 #: src/ui/themeWindow.ui:200
 msgid "Remove Theme"
-msgstr ""
+msgstr "Poista teema"
 
 #: src/ui/translationBox.ui:53
 msgid "Cannot retrieve translation"
-msgstr ""
+msgstr "Käännöstä ei kyetty hakemaan"
 
 #: src/ui/ttsDialog.ui:46
 msgid "Text-to-Speech Command"
-msgstr ""
+msgstr "Teksti puheeksi -komento"
 
 #: src/ui/ttsDialog.ui:57
 msgid "Make sure the selected text-to-speech program is correctly installed."
 msgstr ""
+"Varmista, että valittu tekstistä puheeksi -ohjelma on asennettu oikein."
 
 #: src/ui/ttsDialog.ui:63
 msgid "eSpeak NG"
-msgstr ""
+msgstr "eSpeak NG"
 
 #: src/ui/ttsDialog.ui:80 src/ui/ttsDialog.ui:106 src/ui/ttsDialog.ui:269
 msgid "Reset"
-msgstr ""
+msgstr "Nollaa"
 
 #: src/ui/ttsDialog.ui:88
 msgid "Festival"
-msgstr ""
+msgstr "Festival"
 
 #: src/ui/ttsDialog.ui:137
 msgid ""
@@ -1736,19 +1738,19 @@ msgstr ""
 
 #: src/ui/ttsDialog.ui:156
 msgid "Test Your Configuration"
-msgstr ""
+msgstr "Testaa konfiguraatiosi"
 
 #: src/ui/ttsDialog.ui:178
 msgid "The program should speak the following test sentences in order:"
-msgstr ""
+msgstr "Ohjelman pitäisi puhua testilauseet seuraavassa järjestyksessä:"
 
 #: src/ui/ttsDialog.ui:191
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: src/ui/ttsDialog.ui:228
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: src/ui/wikipediaBox.ui:53
 msgid "No entry found"
@@ -2042,7 +2044,7 @@ msgstr ""
 
 #: src/schemes.js:248
 msgid "Artist"
-msgstr ""
+msgstr "Taiteilija"
 
 #: src/schemes.js:249
 msgid "Assignee"
@@ -2074,7 +2076,7 @@ msgstr ""
 
 #: src/schemes.js:256
 msgid "Screenwriter"
-msgstr ""
+msgstr "Käsikirjoittaja"
 
 #: src/schemes.js:258
 msgid "Binding designer"
@@ -2126,11 +2128,11 @@ msgstr ""
 
 #: src/schemes.js:270
 msgid "Choreographer"
-msgstr ""
+msgstr "Koreografi"
 
 #: src/schemes.js:271
 msgid "Client"
-msgstr ""
+msgstr "Asiakas"
 
 #: src/schemes.js:272
 msgid "Calligrapher"
@@ -2410,7 +2412,7 @@ msgstr ""
 
 #: src/schemes.js:341
 msgid "Expert"
-msgstr ""
+msgstr "Asiantuntija"
 
 #: src/schemes.js:342
 msgid "Facsimilist"
@@ -2798,7 +2800,7 @@ msgstr ""
 
 #: src/schemes.js:440
 msgid "Radio director"
-msgstr ""
+msgstr "Radio-ohjaaja"
 
 #: src/schemes.js:441
 msgid "Redaktor"
@@ -2902,11 +2904,11 @@ msgstr ""
 
 #: src/schemes.js:466
 msgid "Singer"
-msgstr ""
+msgstr "Laulaja"
 
 #: src/schemes.js:467
 msgid "Speaker"
-msgstr ""
+msgstr "Puhuja"
 
 #: src/schemes.js:468
 msgid "Sponsor"
@@ -2922,7 +2924,7 @@ msgstr ""
 
 #: src/schemes.js:471
 msgid "Set designer"
-msgstr ""
+msgstr "Lavastaja"
 
 #: src/schemes.js:472
 msgid "Setting"
@@ -2958,11 +2960,11 @@ msgstr ""
 
 #: src/schemes.js:480
 msgid "Television director"
-msgstr ""
+msgstr "Televisio-ohjaaja"
 
 #: src/schemes.js:481
 msgid "Television producer"
-msgstr ""
+msgstr "Televisiotuottaja"
 
 #: src/schemes.js:482
 msgid "Transcriber"
@@ -2970,7 +2972,7 @@ msgstr ""
 
 #: src/schemes.js:483
 msgid "Translator"
-msgstr ""
+msgstr "Kääntäjä"
 
 #: src/schemes.js:484
 msgid "Type designer"
@@ -3026,7 +3028,7 @@ msgstr ""
 
 #: src/schemes.js:497
 msgid "Writer of preface"
-msgstr ""
+msgstr "Esipuheen kirjoittaja"
 
 #: src/schemes.js:498
 msgid "Writer of supplementary textual content"
@@ -3035,10 +3037,11 @@ msgstr ""
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:10
 msgid "Foliate is a simple and modern GTK eBook viewer."
 msgstr ""
+"Foliate on yksinkertainen ja moderni GTK-pohjainen e-kirjojen katseluohjelma."
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:11
 msgid "Features include:"
-msgstr ""
+msgstr "Ominaisuuksiin sisältyvät:"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:13
 msgid "Two-page view and scrolled view"
@@ -3348,7 +3351,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:182
 msgid "Security:"
-msgstr ""
+msgstr "Turvallisuus:"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:184
 msgid ""
@@ -3500,7 +3503,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:239
 msgid "Reading:"
-msgstr ""
+msgstr "Lukeminen:"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:241
 msgid "Continuous scrolling layout"
@@ -3525,7 +3528,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:246
 msgid "Reload book (Ctrl + R)"
-msgstr ""
+msgstr "Lataa kirja uudelleen (Ctrl + R)"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:247
 msgid "New built-in themes: Gray, Solarized, Gruvbox, Nord"
@@ -3549,7 +3552,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:255
 msgid "Annotations:"
-msgstr ""
+msgstr "Merkinnät:"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:257
 msgid "Spellcheck notes"
@@ -3579,7 +3582,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:266
 msgid "Breaking changes:"
-msgstr ""
+msgstr "Rikkovat muutokset:"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:268
 msgid "The settings schemas has been reorganized"
@@ -3595,7 +3598,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:272
 msgid "Bug fixes:"
-msgstr ""
+msgstr "Virheenkorjaukset:"
 
 #: data/com.github.johnfactotum.Foliate.metainfo.xml.in:274
 msgid "Fixed not restoring exact last location"
@@ -3937,52 +3940,53 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:116
 msgid "Prefer dark GTK theme"
-msgstr ""
+msgstr "Suosi tummaa GTK-teemaa"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:117
 msgid "If true, the dark variant of a GTK theme, if available, will be used"
-msgstr ""
+msgstr "Jos tosi, tummaa GTK-teemaa käytetään (jos saatavilla)"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:121
 #: data/com.github.johnfactotum.Foliate.gschema.xml:122
 msgid "Zoom level"
-msgstr ""
+msgstr "Suurennoksen taso"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:132
 msgid "Line-height"
-msgstr ""
+msgstr "Rivikorkeus"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:136
 msgid "Margin"
-msgstr ""
+msgstr "Marginaali"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:137
 msgid "Page margin in pixels"
-msgstr ""
+msgstr "Sivun marginaali pikseleissä"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:141
 msgid "Max width"
-msgstr ""
+msgstr "Isoin sallittu leveys"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:146
 msgid "Use publisher font"
-msgstr ""
+msgstr "Käytä kustantajan kirjaisinta"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:147
 msgid "If true, custom font is disabled"
-msgstr ""
+msgstr "Jos tosi, oma kirjaisin laitetaan pois päältä"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:151
 msgid "Justify text"
-msgstr ""
+msgstr "Tasaa teksti"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:152
 msgid "If true, text will be justified"
-msgstr ""
+msgstr "Jos tosi, teksti tasataan"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:156
+#, fuzzy
 msgid "Hyphenation"
-msgstr ""
+msgstr "Hyfenaatio"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:157
 msgid "If true, auto-hyphenation is enabled"
@@ -3990,21 +3994,21 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:161
 msgid "Foreground color"
-msgstr ""
+msgstr "Etualan väri"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:162
 msgid "Text color"
-msgstr ""
+msgstr "Tekstin väri"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:166
 #: data/com.github.johnfactotum.Foliate.gschema.xml:167
 msgid "Background color"
-msgstr ""
+msgstr "Taustan väri"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:171
 #: data/com.github.johnfactotum.Foliate.gschema.xml:172
 msgid "Link color"
-msgstr ""
+msgstr "Linkkejen väri"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:177
 msgid "Invert page"
@@ -4019,7 +4023,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:186
 msgid "Footnote preview"
-msgstr ""
+msgstr "Alaviitteiden esikatselu"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:187
 msgid "If true, will attempt to display footnotes in a popover"
@@ -4027,59 +4031,59 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:191
 msgid "Allow unsafe content"
-msgstr ""
+msgstr "Salli mahdollisesti vaarallinen sisältö"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:192
 msgid "If true, allow JavaScript"
-msgstr ""
+msgstr "Jos päällä, sallii javascript-ohjelmapätkien suorittamisen"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:196
 msgid "Enable developer tools"
-msgstr ""
+msgstr "Ota kehittäjätyökalut käyttöön"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:197
 msgid "If true, developer tools are enabled"
-msgstr ""
+msgstr "Jos tosi, kehittäjätyökalut ovat saatavilla"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:202
 msgid "Page layout"
-msgstr ""
+msgstr "Sivun asetelma"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:206
 msgid "Skeuomorphism"
-msgstr ""
+msgstr "Skeuomorfismi"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:207
 msgid ""
 "If true, the book is decoratively presented in a way that resembles physical "
 "books"
-msgstr ""
+msgstr "Jos päällä, kirja pyritään esittämään fyysisen kirjan tavoin"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:211
 msgid "Auto-hide cursor"
-msgstr ""
+msgstr "Piilota kursori automaattisesti"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:212
 msgid "Whether to hide the cursor automatically"
-msgstr ""
+msgstr "Pitäisikö kursori piilottaa automaattisesti vaiko ei"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:219
 #: data/com.github.johnfactotum.Foliate.gschema.xml:257
 msgid "Window width"
-msgstr ""
+msgstr "Ikkunaleveys"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:220
 msgid "Width of the window"
-msgstr ""
+msgstr "Ikkunan leveys"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:224
 #: data/com.github.johnfactotum.Foliate.gschema.xml:262
 msgid "Window height"
-msgstr ""
+msgstr "Ikkunakorkeus"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:225
 msgid "Height of the window"
-msgstr ""
+msgstr "Ikkunan korkeus"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:229
 #: data/com.github.johnfactotum.Foliate.gschema.xml:267
@@ -4097,7 +4101,7 @@ msgstr ""
 #: data/com.github.johnfactotum.Foliate.gschema.xml:239
 #: data/com.github.johnfactotum.Foliate.gschema.xml:240
 msgid "Last file opened"
-msgstr ""
+msgstr "Viimeksi avattu tiedosto"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:245
 msgid "Whether the sidebar is shown"
@@ -4105,11 +4109,11 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:249
 msgid "Sidebar size"
-msgstr ""
+msgstr "Sivuvalikon koko"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:250
 msgid "Sidebar width"
-msgstr ""
+msgstr "Sivuvalikon leveys"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:258
 msgid "Width of the library window"
@@ -4125,7 +4129,7 @@ msgstr ""
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:273
 msgid "How to view the library"
-msgstr ""
+msgstr "Kuinka katsoa kirjastoa"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:277
 msgid "Library page"
